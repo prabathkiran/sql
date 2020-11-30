@@ -1,0 +1,1 @@
+select * from hr.countries where region_id=2;
